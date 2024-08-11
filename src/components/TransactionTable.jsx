@@ -9,7 +9,7 @@ function TransactionTable() {
   const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
-    fetch('http://localhost:3000/transactions')
+    fetch('https://my-json-server.typicode.com/nikitaamani/phase-2-code-challenge/transactions')
       .then((response) => response.json())
       .then((data) => {
         setTransactions(data);

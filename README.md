@@ -1,4 +1,11 @@
 # phase-2-project-trial
+# Description
+a React application that displays a list of your recent bank transactions, among other features.
+
+# Features
+- Add new transaction.
+- Filter transaction.
+
 ## Installation Requirements
 Git
 
@@ -17,3 +24,10 @@ cd -(change directory) Change directory in your terminal and access it.
 ```bash 
 use ' code .' in your terminal it will lead to you to the vs-code.
 ```
+-You can use this link and open the website to access the code.
+```bash
+
+```
+Technologies used Github Javascript
+
+Support and contact details github.com/nikitaamani
