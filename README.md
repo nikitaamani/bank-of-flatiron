@@ -1,4 +1,5 @@
-# phase-2-project-trial
+# bank of flatiron
+
 # Description
 a React application that displays a list of your recent bank transactions, among other features.
 
