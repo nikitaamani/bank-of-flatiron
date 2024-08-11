@@ -21,7 +21,7 @@ function TransactionTable() {
   }, []);
 
   const handleAddTransaction = (newTransaction) => {
-    fetch('http://localhost:3000/transactions', {
+    fetch('https://my-json-server.typicode.com/nikitaamani/phase-2-code-challenge/transactions', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -40,7 +40,7 @@ function TransactionTable() {
   };
 
   const handleDeleteTransaction = (id) => {
-    fetch(`http://localhost:3000/transactions/${id}`, {
+    fetch(`https://my-json-server.typicode.com/nikitaamani/phase-2-code-challenge/transactions/${id}`, {
       method: 'DELETE',
     })
       .then(() => {
