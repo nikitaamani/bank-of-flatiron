@@ -29,6 +29,6 @@ use ' code .' in your terminal it will lead to you to the vs-code.
 ```bash
 https://phase-2-code-challenge-rho.vercel.app/
 ```
-Technologies used Github Javascript
+Technologies used Github And vite
 
 Support and contact details github.com/nikitaamani
